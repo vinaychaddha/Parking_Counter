@@ -1,2 +1,2 @@
-# Parking_Counter
+# Parking Counter
 Arduino Based Vehicle Parking Counter
